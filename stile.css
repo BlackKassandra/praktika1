@@ -1,0 +1,19 @@
+.zagolovok{
+    font-family: Impact;
+    color: rgb(105, 0, 0);
+}
+.zagolovok:hover{color: rgb(255, 0, 0);}
+
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; /*выравнивание по центру*/
+    margin-top: 2mm;   
+}
+
+#odin{background-color: black;color: cadetblue;}
+#dva{background-color: rgb(255, 208, 39);color: red;}
+#tri{background-color: rgb(11, 77, 184);color: rgb(255, 255, 255);}
+#chetire{background-color: darkred;color: rgb(106, 176, 255);}
+#pjat{background-color: rgb(51, 146, 51);color: rgb(76, 13, 110);}
+#shest{background-color: black;color: rgb(179, 0, 0);}
+#sem{background-color: black;color: rgb(101, 173, 255);}
